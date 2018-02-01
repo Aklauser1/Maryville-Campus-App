@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9A2983C220211E3F001A90A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2983C120211E3F001A90A4 /* AppDelegate.swift */; };
+		9A2983C420211E3F001A90A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2983C320211E3F001A90A4 /* ViewController.swift */; };
+		9A2983C720211E3F001A90A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A2983C520211E3F001A90A4 /* Main.storyboard */; };
+		9A2983C920211E3F001A90A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A2983C820211E3F001A90A4 /* Assets.xcassets */; };
+		9A2983CC20211E3F001A90A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A2983CA20211E3F001A90A4 /* LaunchScreen.storyboard */; };
+		9A2983D720211E3F001A90A4 /* Interactive_Maryville_MapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2983D620211E3F001A90A4 /* Interactive_Maryville_MapTests.swift */; };
+		9A2983E220211E3F001A90A4 /* Interactive_Maryville_MapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2983E120211E3F001A90A4 /* Interactive_Maryville_MapUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9A2983D320211E3F001A90A4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A2983B620211E3F001A90A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A2983BD20211E3F001A90A4;
+			remoteInfo = "Interactive Maryville Map";
+		};
+		9A2983DE20211E3F001A90A4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A2983B620211E3F001A90A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A2983BD20211E3F001A90A4;
+			remoteInfo = "Interactive Maryville Map";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9A2983BE20211E3F001A90A4 /* Interactive Maryville Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Interactive Maryville Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2983C120211E3F001A90A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9A2983C320211E3F001A90A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9A2983C620211E3F001A90A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9A2983C820211E3F001A90A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9A2983CB20211E3F001A90A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9A2983CD20211E3F001A90A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A2983D220211E3F001A90A4 /* Interactive Maryville MapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Interactive Maryville MapTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2983D620211E3F001A90A4 /* Interactive_Maryville_MapTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactive_Maryville_MapTests.swift; sourceTree = "<group>"; };
+		9A2983D820211E3F001A90A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A2983DD20211E3F001A90A4 /* Interactive Maryville MapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Interactive Maryville MapUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2983E120211E3F001A90A4 /* Interactive_Maryville_MapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactive_Maryville_MapUITests.swift; sourceTree = "<group>"; };
+		9A2983E320211E3F001A90A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A2983BB20211E3F001A90A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983CF20211E3F001A90A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983DA20211E3F001A90A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A2983B520211E3F001A90A4 = {
+			isa = PBXGroup;
+			children = (
+				9A2983C020211E3F001A90A4 /* Interactive Maryville Map */,
+				9A2983D520211E3F001A90A4 /* Interactive Maryville MapTests */,
+				9A2983E020211E3F001A90A4 /* Interactive Maryville MapUITests */,
+				9A2983BF20211E3F001A90A4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9A2983BF20211E3F001A90A4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A2983BE20211E3F001A90A4 /* Interactive Maryville Map.app */,
+				9A2983D220211E3F001A90A4 /* Interactive Maryville MapTests.xctest */,
+				9A2983DD20211E3F001A90A4 /* Interactive Maryville MapUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9A2983C020211E3F001A90A4 /* Interactive Maryville Map */ = {
+			isa = PBXGroup;
+			children = (
+				9A2983C120211E3F001A90A4 /* AppDelegate.swift */,
+				9A2983C320211E3F001A90A4 /* ViewController.swift */,
+				9A2983C520211E3F001A90A4 /* Main.storyboard */,
+				9A2983C820211E3F001A90A4 /* Assets.xcassets */,
+				9A2983CA20211E3F001A90A4 /* LaunchScreen.storyboard */,
+				9A2983CD20211E3F001A90A4 /* Info.plist */,
+			);
+			path = "Interactive Maryville Map";
+			sourceTree = "<group>";
+		};
+		9A2983D520211E3F001A90A4 /* Interactive Maryville MapTests */ = {
+			isa = PBXGroup;
+			children = (
+				9A2983D620211E3F001A90A4 /* Interactive_Maryville_MapTests.swift */,
+				9A2983D820211E3F001A90A4 /* Info.plist */,
+			);
+			path = "Interactive Maryville MapTests";
+			sourceTree = "<group>";
+		};
+		9A2983E020211E3F001A90A4 /* Interactive Maryville MapUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9A2983E120211E3F001A90A4 /* Interactive_Maryville_MapUITests.swift */,
+				9A2983E320211E3F001A90A4 /* Info.plist */,
+			);
+			path = "Interactive Maryville MapUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9A2983BD20211E3F001A90A4 /* Interactive Maryville Map */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A2983E620211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville Map" */;
+			buildPhases = (
+				9A2983BA20211E3F001A90A4 /* Sources */,
+				9A2983BB20211E3F001A90A4 /* Frameworks */,
+				9A2983BC20211E3F001A90A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Interactive Maryville Map";
+			productName = "Interactive Maryville Map";
+			productReference = 9A2983BE20211E3F001A90A4 /* Interactive Maryville Map.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9A2983D120211E3F001A90A4 /* Interactive Maryville MapTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A2983E920211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville MapTests" */;
+			buildPhases = (
+				9A2983CE20211E3F001A90A4 /* Sources */,
+				9A2983CF20211E3F001A90A4 /* Frameworks */,
+				9A2983D020211E3F001A90A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A2983D420211E3F001A90A4 /* PBXTargetDependency */,
+			);
+			name = "Interactive Maryville MapTests";
+			productName = "Interactive Maryville MapTests";
+			productReference = 9A2983D220211E3F001A90A4 /* Interactive Maryville MapTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9A2983DC20211E3F001A90A4 /* Interactive Maryville MapUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A2983EC20211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville MapUITests" */;
+			buildPhases = (
+				9A2983D920211E3F001A90A4 /* Sources */,
+				9A2983DA20211E3F001A90A4 /* Frameworks */,
+				9A2983DB20211E3F001A90A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A2983DF20211E3F001A90A4 /* PBXTargetDependency */,
+			);
+			name = "Interactive Maryville MapUITests";
+			productName = "Interactive Maryville MapUITests";
+			productReference = 9A2983DD20211E3F001A90A4 /* Interactive Maryville MapUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9A2983B620211E3F001A90A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Drew Klauser";
+				TargetAttributes = {
+					9A2983BD20211E3F001A90A4 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					9A2983D120211E3F001A90A4 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 9A2983BD20211E3F001A90A4;
+					};
+					9A2983DC20211E3F001A90A4 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 9A2983BD20211E3F001A90A4;
+					};
+				};
+			};
+			buildConfigurationList = 9A2983B920211E3F001A90A4 /* Build configuration list for PBXProject "Interactive Maryville Map" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9A2983B520211E3F001A90A4;
+			productRefGroup = 9A2983BF20211E3F001A90A4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9A2983BD20211E3F001A90A4 /* Interactive Maryville Map */,
+				9A2983D120211E3F001A90A4 /* Interactive Maryville MapTests */,
+				9A2983DC20211E3F001A90A4 /* Interactive Maryville MapUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A2983BC20211E3F001A90A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A2983CC20211E3F001A90A4 /* LaunchScreen.storyboard in Resources */,
+				9A2983C920211E3F001A90A4 /* Assets.xcassets in Resources */,
+				9A2983C720211E3F001A90A4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983D020211E3F001A90A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983DB20211E3F001A90A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9A2983BA20211E3F001A90A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A2983C420211E3F001A90A4 /* ViewController.swift in Sources */,
+				9A2983C220211E3F001A90A4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983CE20211E3F001A90A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A2983D720211E3F001A90A4 /* Interactive_Maryville_MapTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A2983D920211E3F001A90A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A2983E220211E3F001A90A4 /* Interactive_Maryville_MapUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9A2983D420211E3F001A90A4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A2983BD20211E3F001A90A4 /* Interactive Maryville Map */;
+			targetProxy = 9A2983D320211E3F001A90A4 /* PBXContainerItemProxy */;
+		};
+		9A2983DF20211E3F001A90A4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A2983BD20211E3F001A90A4 /* Interactive Maryville Map */;
+			targetProxy = 9A2983DE20211E3F001A90A4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9A2983C520211E3F001A90A4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9A2983C620211E3F001A90A4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9A2983CA20211E3F001A90A4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9A2983CB20211E3F001A90A4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9A2983E420211E3F001A90A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9A2983E520211E3F001A90A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9A2983E720211E3F001A90A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville Map/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-Map";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9A2983E820211E3F001A90A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville Map/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-Map";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9A2983EA20211E3F001A90A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville MapTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-MapTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Interactive Maryville Map.app/Interactive Maryville Map";
+			};
+			name = Debug;
+		};
+		9A2983EB20211E3F001A90A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville MapTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-MapTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Interactive Maryville Map.app/Interactive Maryville Map";
+			};
+			name = Release;
+		};
+		9A2983ED20211E3F001A90A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville MapUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-MapUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Interactive Maryville Map";
+			};
+			name = Debug;
+		};
+		9A2983EE20211E3F001A90A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Interactive Maryville MapUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "DrewKlauser.Interactive-Maryville-MapUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Interactive Maryville Map";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A2983B920211E3F001A90A4 /* Build configuration list for PBXProject "Interactive Maryville Map" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A2983E420211E3F001A90A4 /* Debug */,
+				9A2983E520211E3F001A90A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A2983E620211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville Map" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A2983E720211E3F001A90A4 /* Debug */,
+				9A2983E820211E3F001A90A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A2983E920211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville MapTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A2983EA20211E3F001A90A4 /* Debug */,
+				9A2983EB20211E3F001A90A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A2983EC20211E3F001A90A4 /* Build configuration list for PBXNativeTarget "Interactive Maryville MapUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A2983ED20211E3F001A90A4 /* Debug */,
+				9A2983EE20211E3F001A90A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9A2983B620211E3F001A90A4 /* Project object */;
+}
