@@ -69,7 +69,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="12" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mo5-yx-uzH">
-                                <rect key="frame" x="16" y="251" width="343" height="304"/>
+                                <rect key="frame" x="32" y="251" width="343" height="304"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Cookie and T.R. Potter Jr. Hall offers housing for about 250 students. Rooms include single, double and triple accommodations, and each room has a private bathroom. The three-story building includes a lobby with welcoming areas where students study and socialize and free laundry facilities. There is a beverage station with free coffee, tea and water, even a popcorn machine. An on-site fitness center features cardio and strength building exercise equipment.</string>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
@@ -77,7 +77,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="9" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aRz-Xb-aae">
-                                <rect key="frame" x="58" y="543" width="283" height="104"/>
+                                <rect key="frame" x="74" y="543" width="283" height="104"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Double Occupancy	       $8,900
 Single Occupancy      	       $10,400
@@ -87,7 +87,7 @@ Triple Occupancy (Suite)	 $10,000</string>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Maryville_Hall" translatesAutoresizingMaskIntoConstraints="NO" id="f2h-bt-gOe">
-                                <rect key="frame" x="16" y="77" width="343" height="200"/>
+                                <rect key="frame" x="32" y="77" width="343" height="200"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -108,7 +108,7 @@ Triple Occupancy (Suite)	 $10,000</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WNr-i4-hZN">
-                                <rect key="frame" x="18" y="543" width="341" height="104"/>
+                                <rect key="frame" x="34" y="543" width="341" height="104"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Double Occupancy	$11,000
 Quadruple Occupancy	$10,500</string>
@@ -117,7 +117,7 @@ Quadruple Occupancy	$10,500</string>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iDr-uB-Z91">
-                                <rect key="frame" x="39" y="303" width="299" height="274"/>
+                                <rect key="frame" x="55" y="303" width="299" height="274"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Saints Hall features a fitness center, open lobby and lounge spaces and a modern floor plan. The Hall was designed with learning in mind, including Apple TVs and study lounges throughout the building, as well as a fully equipped, high-tech classroom on the first floor. It was designed to accommodate an additional wing as enrollment growth and demand for student housing continue to expand.</string>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
@@ -125,7 +125,7 @@ Quadruple Occupancy	$10,500</string>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="020-Saints-Hall_Maryville_Paric_-Aug2016" translatesAutoresizingMaskIntoConstraints="NO" id="P3R-IG-c3w">
-                                <rect key="frame" x="16" y="102" width="343" height="193"/>
+                                <rect key="frame" x="32" y="102" width="343" height="193"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -146,9 +146,17 @@ Quadruple Occupancy	$10,500</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048" translatesAutoresizingMaskIntoConstraints="NO" id="9Ty-G4-f4B">
-                                <rect key="frame" x="16" y="88" width="343" height="210"/>
+                                <rect key="frame" x="37" y="88" width="343" height="210"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="14" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SnM-oJ-ocy">
+                                <rect key="frame" x="37" y="306" width="359" height="341"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Named in memory of Maryville Advisory Board member Charles M. Huttig, the chapel was a gift of his wife, the late Margaret Mullally Huttig Mudd, a Maryville alumna. The chapel serves the Maryville community as an ecumenical site for religious services, personal prayer and contemplation. Housed within the building is the O’Loane Reading Room, named for the late Mother Mary T. O’Loane (a past Dean of Studies), and the Sacred Heart Chapel, dedicated to alumna Rosemary Holland Gidionsen, in recognition of her outstanding service to Maryville</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="mmo-Co-dMu"/>
@@ -165,13 +173,27 @@ Quadruple Occupancy	$10,500</string>
                     <view key="view" contentMode="scaleToFill" id="aIi-U4-GuK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TK7-HO-RgU">
+                                <rect key="frame" x="46" y="347" width="329" height="320"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">This 4,040-square-foot building opened in 2006 as a student gathering place and casual venue for campus events. Located adjacent to the recently-built Hilltop Apartments, the Buder Commons includes an outdoor patio area and provides a relaxing social atmosphere for residents and commuters alike.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DTCSDeNVoAE8AqL" translatesAutoresizingMaskIntoConstraints="NO" id="xJl-4v-Ue7">
+                                <rect key="frame" x="51" y="132" width="318" height="207"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="ZqU-BG-AOG"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6YH-B6-x2F" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2553" y="1060"/>
+            <point key="canvasLocation" x="2552.8000000000002" y="1059.2203898050975"/>
         </scene>
         <!--Simon Athletic Center-->
         <scene sceneID="Nvk-0i-cew">
@@ -182,9 +204,17 @@ Quadruple Occupancy	$10,500</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048-2" translatesAutoresizingMaskIntoConstraints="NO" id="hwP-eQ-40Y">
-                                <rect key="frame" x="16" y="96" width="343" height="213"/>
+                                <rect key="frame" x="32" y="96" width="343" height="213"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="14" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nmO-Ou-vKW">
+                                <rect key="frame" x="32" y="327" width="343" height="327"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">The late philanthropist John E. Simon — a longtime Maryville Trustee— and his wife Adaline made this facility possible through a generous donation in 1980. The multi-purpose building provides indoor athletic facilities for intramural and intercollegiate sports and features a state-of-the art Fitness Center with 2,100 square feet of strength training and cardio equipment. It also houses a multifunction room, an Athletic Training and Rehabilitation Center, and some physical therapy classroom and laboratory activities.</mutableString>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="C6Z-GV-91J"/>
@@ -203,9 +233,17 @@ Quadruple Occupancy	$10,500</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2178_maryville-university-of-satint-louis_14" translatesAutoresizingMaskIntoConstraints="NO" id="N2Y-Xz-hM6">
-                                <rect key="frame" x="16" y="97" width="343" height="178"/>
+                                <rect key="frame" x="32" y="96" width="343" height="178"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R5H-4Y-3IL">
+                                <rect key="frame" x="54" y="300" width="299" height="310"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">A 47,000-square-foot facility housing library services, the McDonnell Douglas Room and the Novus Room in the Morton J. May Foundation Art Gallery, the Coffeehouse in the Kresge Lobby and the Monsanto Room. The facility was dedicated in 1988.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="tF1-dA-1y2"/>
@@ -224,9 +262,17 @@ Quadruple Occupancy	$10,500</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048-3" translatesAutoresizingMaskIntoConstraints="NO" id="V63-Tf-63u">
-                                <rect key="frame" x="16" y="99" width="343" height="221"/>
+                                <rect key="frame" x="32" y="99" width="343" height="221"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="12" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RYl-y3-Fds">
+                                <rect key="frame" x="32" y="376" width="343" height="243"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Named in honor of the late Sister Marie Kernaghan, RSCJ. Sister Kernaghan was a member of the Maryville faculty for more than 50 years and was the first woman to receive a Ph.D. from Saint Louis University. With 17 classrooms and science labs, Kerhaghan Hall is an active center of learning for all students.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="X46-8T-4Dt"/>
@@ -260,11 +306,11 @@ Quadruple Occupancy	$10,500</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Maryville-Day+Exterior+from+north" translatesAutoresizingMaskIntoConstraints="NO" id="XrI-YK-4CI">
-                                <rect key="frame" x="30" y="103" width="323" height="189"/>
+                                <rect key="frame" x="54" y="96" width="323" height="189"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="24" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Rj-Go-5Fr">
-                                <rect key="frame" x="15" y="307" width="353" height="347"/>
+                                <rect key="frame" x="39" y="300" width="353" height="347"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">The College of Health Professions at Maryville University continues its reputation as a leader in preparing students for careers in Nursing, Music Therapy, Occupational Therapy, Physical Therapy, Rehabilitation Services and Rehabilitation Counseling. Through its professional programs, the College serves as a catalyst for change and improvements in the delivery of health care and human services in the community.
 
@@ -321,11 +367,11 @@ Teaching, research and learning environments today require 21st century faciliti
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="CqoTlwuUsAEAlhK" translatesAutoresizingMaskIntoConstraints="NO" id="NIa-UH-ccL">
-                                <rect key="frame" x="16" y="117" width="343" height="226"/>
+                                <rect key="frame" x="32" y="116" width="343" height="226"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QbP-rB-fDM">
-                                <rect key="frame" x="16" y="366" width="343" height="258"/>
+                                <rect key="frame" x="32" y="365" width="343" height="258"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Clean, contemporary lines accentuate this 450-seat facility, which was completed in 2001. Students, faculty, and members of the community frequent the auditorium for concerts, plays, lectures and speakers of note. The auditorium is home to the St. Louis Chamber Orchestra at Maryville University, and is part of a larger building containing rehearsal rooms, teaching spaces, practice rooms and music classrooms.</string>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
@@ -348,13 +394,23 @@ Teaching, research and learning environments today require 21st century faciliti
                     <view key="view" contentMode="scaleToFill" id="DFk-es-7Yh">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="9" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PlK-eW-Cax">
+                                <rect key="frame" x="13" y="531" width="348" height="89"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Double Occupancy	$7,800</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="UAc-rb-YdH"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cSg-7d-jvv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2586" y="3192"/>
+            <point key="canvasLocation" x="2584.8000000000002" y="3191.1544227886061"/>
         </scene>
         <!--McNally House-->
         <scene sceneID="KTp-9g-YJM">
@@ -365,9 +421,17 @@ Teaching, research and learning environments today require 21st century faciliti
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048-5" translatesAutoresizingMaskIntoConstraints="NO" id="M5Y-8X-xs0">
-                                <rect key="frame" x="16" y="81" width="343" height="257"/>
+                                <rect key="frame" x="29" y="90" width="343" height="257"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JMs-Um-Kh1">
+                                <rect key="frame" x="25" y="382" width="350" height="285"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">McNally House was named in honor of Sister Mary Gray McNally, RSCJ, the fifth president of Maryville College. Under her leadership, Maryville became coeducational and expanded its nursing program by absorbing the Mercy Junior College Nursing Program. A member of the Society of the Sacred Heart for sixty-six years, Sister McNally also served on the University’s Board of Trustees from 1979 to 1997. McNally House is a continuing education center that provides meeting rooms as well as an outdoor swimming pool.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="3st-ZR-Zgt"/>
@@ -384,13 +448,27 @@ Teaching, research and learning environments today require 21st century faciliti
                     <view key="view" contentMode="scaleToFill" id="BgV-LG-THy">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AvF-Z9-7yO">
+                                <rect key="frame" x="29" y="338" width="343" height="309"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Weber Field is home to the Maryville Saints men’s baseball team. Built in 1981, the field was named after developer Fred Weber who assisted in its construction. The field fits in with a Double-A ballpark scheme, and has been updated in recent years with new fencing, a new scoreboard and batting cage, revamped dugouts and a new sprinkler system.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="CrIR6nzUMAA0hn9" translatesAutoresizingMaskIntoConstraints="NO" id="DOA-Zw-gWI">
+                                <rect key="frame" x="26" y="101" width="349" height="205"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="slA-UL-m4h"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="igh-LC-Q6h" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2586" y="4589"/>
+            <point key="canvasLocation" x="2584.8000000000002" y="4588.1559220389809"/>
         </scene>
         <!--Anheuser-Busch Hall-->
         <scene sceneID="sQg-WG-1aI">
@@ -399,6 +477,20 @@ Teaching, research and learning environments today require 21st century faciliti
                     <view key="view" contentMode="scaleToFill" id="heW-kV-g3G">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sZg-Cj-Jg4">
+                                <rect key="frame" x="42" y="383" width="323" height="264"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">A generous gift from Anheuser-Busch made possible this busy academic building which connects Kernaghan and Reid Halls. The hub of academic life since its unveiling in 1998, this 30,000-square-foot complex includes three academic areas:  The College of Arts and Sciences and the John E. Simon School of Business. The center also houses case-study rooms, computer labs, conference rooms and faculty offices.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_8308" translatesAutoresizingMaskIntoConstraints="NO" id="AK7-zi-Fa7">
+                                <rect key="frame" x="32" y="105" width="343" height="263"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Wq7-Hl-Zyz"/>
                     </view>
@@ -416,9 +508,17 @@ Teaching, research and learning environments today require 21st century faciliti
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048-4" translatesAutoresizingMaskIntoConstraints="NO" id="yhT-cQ-18R">
-                                <rect key="frame" x="16" y="90" width="343" height="230"/>
+                                <rect key="frame" x="32" y="90" width="343" height="230"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="13" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Wj-X6-2C9">
+                                <rect key="frame" x="32" y="371" width="343" height="276"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Completed in 1998, The Art &amp; Design Building is the creative core of the campus. This 18,000-square-foot-structure features studios for interior design, graphic design, printmaking, drawing, painting and photography. The building also houses conference and critique rooms, as well as multi-function gallery space for juried student exhibitions.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="0zb-EP-rEY"/>
@@ -505,7 +605,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DfB-on-hvx">
                                                 <rect key="frame" x="0.0" y="0.0" width="94" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title=" Anheuser Busch Hall">
+                                                <state key="normal" title=" Anheuser Busch Hall" backgroundImage="IMG_8308">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 </state>
@@ -539,7 +639,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lKv-rd-6hV">
                                                 <rect key="frame" x="281.5" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Buder Commons">
+                                                <state key="normal" title="Buder Commons" backgroundImage="DTCSDeNVoAE8AqL">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
@@ -559,10 +659,11 @@ Teaching, research and learning environments today require 21st century faciliti
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8EX-pf-jfM">
                                                 <rect key="frame" x="0.0" y="0.0" width="94" height="100.5"/>
+                                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
                                                 <state key="normal" title="Cedar">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                    <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 </state>
                                                 <connections>
                                                     <segue destination="df5-eU-WVd" kind="show" id="oU4-8h-7Zi"/>
@@ -572,7 +673,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                                 <rect key="frame" x="94" y="0.0" width="93.5" height="100.5"/>
                                                 <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="15"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title=" Design &amp; Visual Art Building">
+                                                <state key="normal" title=" Design &amp; Visual Art Building" backgroundImage="2048-4">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" cocoaTouchSystemColor="darkTextColor"/>
                                                 </state>
@@ -594,7 +695,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="OOE-tU-JIh">
                                                 <rect key="frame" x="281.5" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Donius University Center">
+                                                <state key="normal" title="Donius University Center" backgroundImage="2048-1">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
@@ -637,7 +738,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="weg-HE-G02">
                                                 <rect key="frame" x="187.5" y="0.0" width="94" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Huttig Chapel">
+                                                <state key="normal" title="Huttig Chapel" backgroundImage="2048">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -648,7 +749,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="WYl-7d-hDh">
                                                 <rect key="frame" x="281.5" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Kernaghan Hall">
+                                                <state key="normal" title="Kernaghan Hall" backgroundImage="2048-3">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
@@ -669,7 +770,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="atF-OT-NUq">
                                                 <rect key="frame" x="0.0" y="0.0" width="94" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Library">
+                                                <state key="normal" title="Library" backgroundImage="2178_maryville-university-of-satint-louis_14">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -691,7 +792,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="9c5-CD-t2D">
                                                 <rect key="frame" x="187.5" y="0.0" width="94" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="McNally House">
+                                                <state key="normal" title="McNally House" backgroundImage="2048-5">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -756,7 +857,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="YO4-bk-MZS">
                                                 <rect key="frame" x="281.5" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Reid Hall">
+                                                <state key="normal" title="Reid Hall" backgroundImage="2178_maryville-university-of-satint-louis_10">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
@@ -788,7 +889,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="hSW-Fu-ShV">
                                                 <rect key="frame" x="94" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Simon Athletic Center">
+                                                <state key="normal" title="Simon Athletic Center" backgroundImage="2048-2">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
@@ -797,7 +898,7 @@ Teaching, research and learning environments today require 21st century faciliti
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ctp-qZ-ZOL">
-                                                <rect key="frame" x="187.5" y="0.0" width="94" height="100.5"/>
+                                                <rect key="frame" x="187.5" y="0.0" width="93.5" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
                                                 <state key="normal" title="Walker Hall" backgroundImage="Maryville-Day+Exterior+from+north">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -807,10 +908,10 @@ Teaching, research and learning environments today require 21st century faciliti
                                                     <segue destination="sia-9x-rDd" kind="show" id="Rqh-n9-0uM"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bAJ-c4-4bC">
-                                                <rect key="frame" x="281.5" y="0.0" width="93.5" height="100.5"/>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bAJ-c4-4bC">
+                                                <rect key="frame" x="281" y="0.0" width="94" height="100.5"/>
                                                 <size key="titleShadowOffset" width="1" height="1"/>
-                                                <state key="normal" title="Weber Field">
+                                                <state key="normal" title="Weber Field" backgroundImage="CrIR6nzUMAA0hn9">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -885,7 +986,7 @@ Teaching, research and learning environments today require 21st century faciliti
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="afs-zL-mXB">
-                                <rect key="frame" x="6" y="570.5" width="363" height="120.5"/>
+                                <rect key="frame" x="27" y="566" width="363" height="120.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -904,18 +1005,18 @@ Sunday 10:00 a.m. to 9:00 p.m.
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hours Open" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A9z-2P-o02">
-                                <rect key="frame" x="128" y="536.5" width="119" height="26"/>
+                                <rect key="frame" x="149" y="532" width="119" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="22"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="20110815MVL033" translatesAutoresizingMaskIntoConstraints="NO" id="Uwg-tt-3BB">
-                                <rect key="frame" x="20" y="90" width="335" height="213"/>
+                                <rect key="frame" x="41" y="85" width="335" height="213"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b6b-Ol-OHH">
-                                <rect key="frame" x="20" y="320" width="335" height="202"/>
+                                <rect key="frame" x="41" y="315" width="335" height="202"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Gander Dining Hall offers an extremely varied menu to cater to as many tastes as possible, including traditional entrées served with a variety of fruits and vegetables; Italian cuisine such as pastas, sauces and fresh baked pizza; Mexican fare like quesadillas, enchiladas and Spanish rice; and Asian items such as our stir-fry bar and oriental entrées with chicken or vegetables. Our Chef creates fresh new items on a regular basis!</string>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
@@ -941,9 +1042,17 @@ Sunday 10:00 a.m. to 9:00 p.m.
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2048-1" translatesAutoresizingMaskIntoConstraints="NO" id="Gyg-mg-aE2">
-                                <rect key="frame" x="16" y="88" width="343" height="225"/>
+                                <rect key="frame" x="32" y="87" width="343" height="225"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="16" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jFk-tk-AQZ">
+                                <rect key="frame" x="40" y="331" width="327" height="307"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">Donius University Center is a busy meeting and work place, built in 2001 and dedicated in 2005. Its bright and welcoming atrium provides a scenic view of the campus through a curved wall of windows, and serves as a popular location for many University events. Donius Center is also a daily stopping place where students and faculty can dine in the Campus Café or take advantage of quiet study areas, recreation spots and lounge space. The facility also houses a full-service bookstore and provides office space for Student Life, Student Involvement, Recreation and Intramurals, as well as student organizations.</mutableString>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="fzI-hQ-zGI"/>
@@ -962,9 +1071,17 @@ Sunday 10:00 a.m. to 9:00 p.m.
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2178_maryville-university-of-satint-louis_10" translatesAutoresizingMaskIntoConstraints="NO" id="jl7-cf-6LN">
-                                <rect key="frame" x="16" y="92" width="343" height="193"/>
+                                <rect key="frame" x="34" y="90" width="343" height="193"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YkC-Sk-Phj">
+                                <rect key="frame" x="27" y="257" width="357" height="319"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Named in honor of Reverend Mother Mary Reid, under whose leadership Maryville College progressed from an academy and junior college to a full four-year college with the first bachelor’s degrees being conferred in 1925. This three-floor building contains 20 classrooms and computer labs for students from all academic disciplines.</string>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="4gf-7K-6PT"/>
@@ -1024,6 +1141,9 @@ Sunday 10:00 a.m. to 9:00 p.m.
         <image name="2178_maryville-university-of-satint-louis_14" width="830" height="380"/>
         <image name="Campus-Map-Dec-2017" width="2344" height="3240"/>
         <image name="CqoTlwuUsAEAlhK" width="1200" height="900"/>
+        <image name="CrIR6nzUMAA0hn9" width="1200" height="975"/>
+        <image name="DTCSDeNVoAE8AqL" width="1200" height="900"/>
+        <image name="IMG_8308" width="3264" height="2448"/>
         <image name="Maryville-Day+Exterior+from+north" width="1000" height="750"/>
         <image name="Maryville_Hall" width="800" height="600"/>
     </resources>
@@ -1031,7 +1151,7 @@ Sunday 10:00 a.m. to 9:00 p.m.
         <segue reference="np2-yf-bWY"/>
         <segue reference="Q2t-Rm-nh4"/>
         <segue reference="ZEc-xx-NMg"/>
-        <segue reference="ddz-EM-PqF"/>
+        <segue reference="6Is-HW-E6N"/>
         <segue reference="bWN-2c-5tQ"/>
         <segue reference="N6K-B9-p9T"/>
         <segue reference="oU4-8h-7Zi"/>
